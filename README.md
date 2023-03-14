@@ -51,7 +51,11 @@ When you've finished, send through the link to your github-repo.
 
 
 
-# Commands to run
+# Commands to run manually
 
 - npx tsc exercise.ts (which will create js file)
 - node exercise.js
+
+# Commands to run using npm
+
+- npm start
