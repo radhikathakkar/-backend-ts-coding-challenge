@@ -52,5 +52,6 @@ When you've finished, send through the link to your github-repo.
 
 
 # Commands to run
-npx tsc exercise.ts
-node exercise.js
+
+- npx tsc exercise.ts (which will create js file)
+- node exercise.js
